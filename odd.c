@@ -11,9 +11,7 @@ int main()
   {
     printf("Odd");
   }
-  else(a<0)
-  {
+  else
   printf("invalid");
-  }
  return 0;
 }
