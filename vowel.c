@@ -9,7 +9,7 @@ int main()
   }
   else if(v=='b'||v=='c'||v=='d'||v=='f'||v=='g'||v=='h'||v=='j'||v=='k'||v=='l'||v=='m'||v=='n'||v=='p'||v=='q'||v=='r'||v=='s'||v=='t'||v=='v'||v=='w'||v=='x'||v=='y'||v=='z')
   {
-    printf("consonant");
+    printf("Consonant");
   }
   else
   {
